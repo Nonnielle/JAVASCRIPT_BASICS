@@ -1,4 +1,4 @@
-
+function calculateArea(length,width){return length*width}
 undefined
 console.log(cal
 VM362:1 Uncaught SyntaxError: missing ) after argument list
@@ -7,6 +7,7 @@ VM429:1 NaN
 undefined
 console.log(calculateArea(7'4))
 VM437:1 Uncaught SyntaxError: missing ) after argument list
+allows users to choose to browse without third-party cookies.
 console.log (calculateArea(7,4))
 VM515:1 28
 undefined
